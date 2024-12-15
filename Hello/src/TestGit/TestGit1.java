@@ -8,6 +8,7 @@ public class TestGit1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("abc123");
+		System.out.println("abc123");
 	}
 
 }
